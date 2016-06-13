@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "385663355129",
+    "firebase_url": "https://android-edx.firebaseio.com",
+    "project_id": "android-edx",
+    "storage_bucket": "android-edx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385663355129:android:35d296b6bee244b1",
+        "android_client_info": {
+          "package_name": "com.gustavo.galileo.edx.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385663355129-do7mnqqt5t66avci0tt2lkrn1a5drg18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxResviSsVcIT1pDSgwiJVwWGAXXANQ-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385663355129:android:f78d01b2061c8622",
+        "android_client_info": {
+          "package_name": "edx.android.galileo.gustavo.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385663355129-do7mnqqt5t66avci0tt2lkrn1a5drg18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxResviSsVcIT1pDSgwiJVwWGAXXANQ-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
